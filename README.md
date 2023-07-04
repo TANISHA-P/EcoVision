@@ -67,7 +67,7 @@ The website is running on local server under debug mode. All the debug data can 
 **Images**
 
 RealTimeData View for City to provide real-time insights and visualizations to understand the current state of pollutant Concentrations in that city.
-![Img1](Screenshot (379).png)
+![Img1](readmeImages/img1.png)
 
 Taking Input
 ![Img2](https://drive.google.com/file/d/1zfSjC6QSvt0fg6IeE3KLooS-wXjU90Qg/view?usp=sharing)

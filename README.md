@@ -70,24 +70,24 @@ RealTimeData View for City to provide real-time insights and visualizations to u
 ![Img1](readmeImages/img1.png)
 
 Taking Input
-![Img2](https://drive.google.com/file/d/1zfSjC6QSvt0fg6IeE3KLooS-wXjU90Qg/view?usp=sharing)
+![Img2](readmeImages/img2.png)
 
 Displaying Pie-Chart with Percentage of Pollutants in the Air
-![Img3](https://drive.google.com/file/d/12oEaGLEGlwct8ZW3QxthvBeaHkP7rrL_/view?usp=sharing)
+![Img3](readmeImages/img3.png)
 
 Handing case for when the city data isn't present
-![Img4](https://drive.google.com/file/d/1Nd3B1jRwdemMKd1h2tV_14f3J0WpBYDe/view?usp=sharing)
+![Img4](readmeImages/img4.png)
 
 Output
-![Img5](https://drive.google.com/file/d/1_G7LKFyIHPalTaiOQ5dUdrhEYyg5qI3i/view?usp=sharing)
+![Img5](readmeImages/img5.png)
 
 Future Prediction Inputing City name to predict next 30 days forecast for CO concentration in μg/m3
-![Img6](https://drive.google.com/file/d/1PaWVE45QhDJ9LknuqeebLg9qNUDPsL1H/view?usp=sharing)
+![Img6](readmeImages/img6.png)
 
 Debug Data in Windows PowerShell
-![Img7](https://drive.google.com/file/d/1KdU7CkKRW1vwcEb8nYp2SUSXODqs6cg2/view?usp=sharing)
+![Img7](readmeImages/img7.png)
 
-![Img8](https://drive.google.com/file/d/1FM8GhUBNWXBPh0sQPnjQ0ErQvLqCCw0y/view?usp=sharing)
+![Img8](readmeImages/img8.png)
 
 Displaying Output
-![Img9](https://drive.google.com/file/d/1hIYYFx_BFTynwh-Yg3nYcQ9nXV0Trhmw/view?usp=sharing)
+![Img9](readmeImages/img9.png)

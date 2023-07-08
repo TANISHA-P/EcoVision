@@ -10,7 +10,7 @@ from statsmodels.tsa.arima.model import ARIMA
 from pmdarima.arima import auto_arima
 import pickle
 
-api_key = '53608117f808fb639bf3546098fa471d'
+api_key = <'your_api_key'> #I have used OpenWeatherMap API's Student pack benefits.
 # Create your views here.
 
 def getCoordinates(cityname):
